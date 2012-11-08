@@ -1,6 +1,8 @@
-#!/bin/pyhton
+#!/bin/python
+
 import sys
 import optparse
+
 #My own modules
 import common
 
